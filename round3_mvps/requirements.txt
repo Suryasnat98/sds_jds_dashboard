@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+joblib
+openpyxl
+scikit-learn==1.6.1
